@@ -2,16 +2,16 @@
 
 # Setup
 title:               Bingham
-tagline:             'a jekyll theme for minimal editions'
+tagline:             'A Digital Scholarly Edition of Angie Bingham and Family'
 description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
 url:                 'http://minicomp.github.io'
 baseurl:             '/ed'
 
 # About/contact
 author:
-  name:              Alex Gil
+  name:              Sandra Standish
   url:               https://twitter.com/elotroalex
-  email:             colibri.alex@gmail.com
+  email:             nicke1sl@cmich.edu
 
 # Color scheme. Options: red, orange, magenta, cyan, blue, brown
 color-scheme:
